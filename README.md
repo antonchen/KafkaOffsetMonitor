@@ -1,7 +1,7 @@
 Kafka Offset Monitor
 ===========
 
-[![Build Status](https://travis-ci.org/quantifind/KafkaOffsetMonitor.svg?branch=master)](https://travis-ci.org/quantifind/KafkaOffsetMonitor)
+[![Build Status](https://travis-ci.org/antonchen/KafkaOffsetMonitor.svg?branch=master)](https://travis-ci.org/antonchen/KafkaOffsetMonitor)
 
 This is an app to monitor your kafka consumers and their position (offset) in the queue.
 
